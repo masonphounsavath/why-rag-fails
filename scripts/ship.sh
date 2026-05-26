@@ -28,10 +28,22 @@ BRANCH="mason/${PREFIX}/${SLUG}"
 
 echo "Branch: $BRANCH"
 
+# Stash any uncommitted changes so we can safely switch to main.
+STASHED=false
+if ! git diff --quiet || ! git diff --cached --quiet; then
+  git stash push -m "ship: stash before branching"
+  STASHED=true
+fi
+
 # Make sure we branch off of an up-to-date main.
 git checkout main
 git pull origin main
 git checkout -b "$BRANCH"
+
+# Restore stashed changes onto the new branch.
+if [ "$STASHED" = true ]; then
+  git stash pop
+fi
 
 echo "Staging changes..."
 git add .
