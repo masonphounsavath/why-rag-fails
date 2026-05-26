@@ -1,0 +1,302 @@
+[
+  {
+    "chunk_id": "AAPL_2022_fixed_0",
+    "ticker": "AAPL",
+    "company": "Apple",
+    "year": 2022,
+    "strategy": "fixed",
+    "text": "aapl-20220924\nUNITED STATES\nSECURITIES AND EXCHANGE COMMISSION\nWashington, D.C. 20549\nFORM\n10-K\n(Mark One)\n\u2612\nANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934\nFor the fiscal year ended\nSeptember\u00a024\n, 2022\nor\n\u2610\nTRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934\nFor the transition period from\nto\n.\nCommission File Number:\n001-36743\nApple Inc.\n(Exact name of Registrant as specified in its charter)\nCalifornia\n94-2404110\n(State or other jurisdiction\nof incorporation or organization)\n(I.R.S. Employer Identification No.)\nOne Apple Park Way\nCupertino\n,\nCalifornia\n(Address of principal executive offices)\n(Zip Code)\n(\n)\n996-1010\n(Registrant\u2019s telephone number, including area code)\nSecurities registered pursuant to Section 12(b) of the Act:\nTitle of each class\nTrading symbol(s)\nName of each exchange on which registered\nCommon Stock, $0.00001 par value per share\nAAPL\nThe Nasdaq Stock Market LLC\n1.000% Notes due 2022\nThe Nasdaq",
+    "metadata": {
+      "chunk_index": 0,
+      "char_start": 0,
+      "char_end": 1000,
+      "chunk_size": 1000,
+      "overlap": 200
+    }
+  },
+  {
+    "chunk_id": "AAPL_2022_fixed_1",
+    "ticker": "AAPL",
+    "company": "Apple",
+    "year": 2022,
+    "strategy": "fixed",
+    "text": "of the Act:\nTitle of each class\nTrading symbol(s)\nName of each exchange on which registered\nCommon Stock, $0.00001 par value per share\nAAPL\nThe Nasdaq Stock Market LLC\n1.000% Notes due 2022\nThe Nasdaq Stock Market LLC\n1.375% Notes due 2024\nThe Nasdaq Stock Market LLC\n0.000% Notes due 2025\nThe Nasdaq Stock Market LLC\n0.875% Notes due 2025\nThe Nasdaq Stock Market LLC\n1.625% Notes due 2026\nThe Nasdaq Stock Market LLC\n2.000% Notes due 2027\nThe Nasdaq Stock Market LLC\n1.375% Notes due 2029\nThe Nasdaq Stock Market LLC\n3.050% Notes due 2029\nThe Nasdaq Stock Market LLC\n0.500% Notes due 2031\nThe Nasdaq Stock Market LLC\n3.600% Notes due 2042\nThe Nasdaq Stock Market LLC\nSecurities registered pursuant to Section 12(g) of the Act:  None\nIndicate by check mark if the Registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act.\nYes\n\u2612\nNo\n\u2610\nIndicate by check mark if the Registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act.\nYes\n\u2610\nNo\n\u2612",
+    "metadata": {
+      "chunk_index": 1,
+      "char_start": 800,
+      "char_end": 1800,
+      "chunk_size": 1000,
+      "overlap": 200
+    }
+  },
+  {
+    "chunk_id": "AAPL_2022_fixed_2",
+    "ticker": "AAPL",
+    "company": "Apple",
+    "year": 2022,
+    "strategy": "fixed",
+    "text": "issuer, as defined in Rule 405 of the Securities Act.\nYes\n\u2612\nNo\n\u2610\nIndicate by check mark if the Registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act.\nYes\n\u2610\nNo\n\u2612\nIndicate by check mark whether the Registrant (1)\u00a0has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the Registrant was required to file such reports), and (2)\u00a0has been subject to such filing requirements for the past 90 days.\nYes\n\u2612\nNo\n\u2610\nIndicate by check mark whether the Registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (\u00a7232.405 of this chapter) during the preceding 12 months (or for such shorter period that the Registrant was required to submit such files).\nYes\n\u2612\nNo\n\u2610\nIndicate by check mark whether the Registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer,",
+    "metadata": {
+      "chunk_index": 2,
+      "char_start": 1600,
+      "char_end": 2600,
+      "chunk_size": 1000,
+      "overlap": 200
+    }
+  },
+  {
+    "chunk_id": "AAPL_2022_fixed_3",
+    "ticker": "AAPL",
+    "company": "Apple",
+    "year": 2022,
+    "strategy": "fixed",
+    "text": "er period that the Registrant was required to submit such files).\nYes\n\u2612\nNo\n\u2610\nIndicate by check mark whether the Registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of \u201clarge accelerated filer,\u201d \u201caccelerated filer,\u201d \u201csmaller reporting company,\u201d and \u201cemerging growth company\u201d in Rule 12b-2 of the Exchange Act.\nLarge accelerated filer\n\u2612\nAccelerated filer\n\u2610\nNon-accelerated filer\n\u2610\nSmaller reporting company\n\u2610\nEmerging growth company\n\u2610\nIf an emerging growth company, indicate by check mark if the Registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.\n\u2610\nIndicate by check mark whether the Registrant has filed a report on and attestation to its management\u2019s assessment of the effectiveness of its internal control over financial reporting under Section",
+    "metadata": {
+      "chunk_index": 3,
+      "char_start": 2400,
+      "char_end": 3400,
+      "chunk_size": 1000,
+      "overlap": 200
+    }
+  },
+  {
+    "chunk_id": "AAPL_2022_fixed_4",
+    "ticker": "AAPL",
+    "company": "Apple",
+    "year": 2022,
+    "strategy": "fixed",
+    "text": "\u2610\nIndicate by check mark whether the Registrant has filed a report on and attestation to its management\u2019s assessment of the effectiveness of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or issued its audit report.\n\u2612\nIndicate by check mark whether the Registrant is a shell company (as defined in Rule 12b-2 of the Act).\nYes\n\u2610\nNo\n\u2612\nThe aggregate market value of the voting and non-voting stock held by non-affiliates of the Registrant, as of March\u00a025, 2022, the last business day of the Registrant\u2019s most recently completed second fiscal quarter, was approximately $\n2,830,067,000,000\n. Solely for purposes of this disclosure, shares of common stock held by executive officers and directors of the Registrant as of such date have been excluded because such persons may be deemed to be affiliates. This determination of executive officers and directors as affiliates is not neces",
+    "metadata": {
+      "chunk_index": 4,
+      "char_start": 3200,
+      "char_end": 4200,
+      "chunk_size": 1000,
+      "overlap": 200
+    }
+  },
+  {
+    "chunk_id": "AAPL_2022_fixed_5",
+    "ticker": "AAPL",
+    "company": "Apple",
+    "year": 2022,
+    "strategy": "fixed",
+    "text": "nd directors of the Registrant as of such date have been excluded because such persons may be deemed to be affiliates. This determination of executive officers and directors as affiliates is not necessarily a conclusive determination for any other purposes.\n15,908,118,000\nshares of common stock were issued and outstanding as of October\u00a014, 2022.\nDOCUMENTS INCORPORATED BY REFERENCE\nPortions of the Registrant\u2019s definitive proxy statement relating to its 2023 annual meeting of shareholders are incorporated by reference into Part III of this Annual Report on Form 10-K where indicated. The Registrant\u2019s definitive proxy statement will be filed with the U.S. Securities and Exchange Commission within 120 days after the end of the fiscal year to which this report relates.\nApple Inc.\nForm 10-K\nFor the Fiscal Year Ended September\u00a024, 2022\nTABLE OF CONTENTS\nPage\nPart I\nItem 1.\nBusiness\nItem 1A.\nRisk Factors\nItem 1B.\nUnresolved Staff Comments\nItem 2.\nProperties\nItem 3.\nLegal Proceedings\nItem 4.\nMin",
+    "metadata": {
+      "chunk_index": 5,
+      "char_start": 4000,
+      "char_end": 5000,
+      "chunk_size": 1000,
+      "overlap": 200
+    }
+  },
+  {
+    "chunk_id": "AAPL_2022_fixed_6",
+    "ticker": "AAPL",
+    "company": "Apple",
+    "year": 2022,
+    "strategy": "fixed",
+    "text": "he Fiscal Year Ended September\u00a024, 2022\nTABLE OF CONTENTS\nPage\nPart I\nItem 1.\nBusiness\nItem 1A.\nRisk Factors\nItem 1B.\nUnresolved Staff Comments\nItem 2.\nProperties\nItem 3.\nLegal Proceedings\nItem 4.\nMine Safety Disclosures\nPart II\nItem 5.\nMarket for Registrant\u2019s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities\nItem 6.\n[Reserved]\nItem 7.\nManagement\u2019s Discussion and Analysis of Financial Condition and Results of Operations\nItem 7A.\nQuantitative and Qualitative Disclosures About Market Risk\nItem 8.\nFinancial Statements and Supplementary Data\nItem 9.\nChanges in and Disagreements with Accountants on Accounting and Financial Disclosure\nItem 9A.\nControls and Procedures\nItem 9B.\nOther Information\nItem 9C.\nDisclosure Regarding Foreign Jurisdictions that Prevent Inspections\nPart III\nItem 10.\nDirectors, Executive Officers and Corporate Governance\nItem 11.\nExecutive Compensation\nItem 12\n.\nSecurity Ownership of Certain Beneficial Owners and Management and Related S",
+    "metadata": {
+      "chunk_index": 6,
+      "char_start": 4800,
+      "char_end": 5800,
+      "chunk_size": 1000,
+      "overlap": 200
+    }
+  },
+  {
+    "chunk_id": "AAPL_2022_fixed_7",
+    "ticker": "AAPL",
+    "company": "Apple",
+    "year": 2022,
+    "strategy": "fixed",
+    "text": "pections\nPart III\nItem 10.\nDirectors, Executive Officers and Corporate Governance\nItem 11.\nExecutive Compensation\nItem 12\n.\nSecurity Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters\nItem 13\n.\nCertain Relationships and Related Transactions, and Director Independence\nItem 14.\nPrincipal Accountant Fees and Services\nPart IV\nItem 15.\nExhibit and Financial Statement Schedules\nItem 16.\nForm 10-K Summary\nThis Annual Report on Form 10-K (\u201cForm 10-K\u201d) contains forward-looking statements, within the meaning of the Private Securities Litigation Reform Act of 1995, that involve risks and uncertainties. Many of the forward-looking statements are located in Part I, Item 1 of this Form 10-K under the heading \u201cBusiness\u201d and Part II, Item 7 of this Form 10-K under the heading \u201cManagement\u2019s Discussion and Analysis of Financial Condition and Results of Operations.\u201d Forward-looking statements provide current expectations of future events based on certain assumptions and",
+    "metadata": {
+      "chunk_index": 7,
+      "char_start": 5600,
+      "char_end": 6600,
+      "chunk_size": 1000,
+      "overlap": 200
+    }
+  },
+  {
+    "chunk_id": "AAPL_2022_fixed_8",
+    "ticker": "AAPL",
+    "company": "Apple",
+    "year": 2022,
+    "strategy": "fixed",
+    "text": "ading \u201cManagement\u2019s Discussion and Analysis of Financial Condition and Results of Operations.\u201d Forward-looking statements provide current expectations of future events based on certain assumptions and include any statement that does not directly relate to any historical or current fact. For example, statements in this Form 10-K regarding the potential future impact of the COVID-19 pandemic on the Company\u2019s business and results of operations are forward-looking statements. Forward-looking statements can also be identified by words such as \u201cfuture,\u201d \u201canticipates,\u201d \u201cbelieves,\u201d \u201cestimates,\u201d \u201cexpects,\u201d \u201cintends,\u201d \u201cplans,\u201d \u201cpredicts,\u201d \u201cwill,\u201d \u201cwould,\u201d \u201ccould,\u201d \u201ccan,\u201d \u201cmay,\u201d and similar terms. Forward-looking statements are not guarantees of future performance and the Company\u2019s actual results may differ significantly from the results discussed in the forward-looking statements. Factors that might cause such differences include, but are not limited to, those discussed in Part I, Item 1A of thi",
+    "metadata": {
+      "chunk_index": 8,
+      "char_start": 6400,
+      "char_end": 7400,
+      "chunk_size": 1000,
+      "overlap": 200
+    }
+  },
+  {
+    "chunk_id": "AAPL_2022_fixed_9",
+    "ticker": "AAPL",
+    "company": "Apple",
+    "year": 2022,
+    "strategy": "fixed",
+    "text": "differ significantly from the results discussed in the forward-looking statements. Factors that might cause such differences include, but are not limited to, those discussed in Part I, Item 1A of this Form 10-K under the heading \u201cRisk Factors.\u201d The Company assumes no obligation to revise or update any forward-looking statements for any reason, except as required by law.\nUnless otherwise stated, all information presented herein is based on the Company\u2019s fiscal calendar, and references to particular years, quarters, months or periods refer to the Company\u2019s fiscal years ended in September and the associated quarters, months and periods of those fiscal years. Each of the terms the \u201cCompany\u201d and \u201cApple\u201d as used herein refers collectively to Apple Inc. and its wholly owned subsidiaries, unless otherwise stated.\nPART I\nItem 1.\u00a0\u00a0\u00a0\u00a0Business\nCompany Background\nThe Company designs, manufactures and markets smartphones, personal computers, tablets, wearables and accessories, and sells a variety o",
+    "metadata": {
+      "chunk_index": 9,
+      "char_start": 7200,
+      "char_end": 8200,
+      "chunk_size": 1000,
+      "overlap": 200
+    }
+  },
+  {
+    "chunk_id": "AAPL_2022_fixed_10",
+    "ticker": "AAPL",
+    "company": "Apple",
+    "year": 2022,
+    "strategy": "fixed",
+    "text": "otherwise stated.\nPART I\nItem 1.\u00a0\u00a0\u00a0\u00a0Business\nCompany Background\nThe Company designs, manufactures and markets smartphones, personal computers, tablets, wearables and accessories, and sells a variety of related services. The Company\u2019s fiscal year is the 52- or 53-week period that ends on the last Saturday of September.\nProducts\niPhone\niPhone\n\u00ae\nis the Company\u2019s line of smartphones based on its iOS operating system. The iPhone line includes iPhone 14 Pro, iPhone 14, iPhone 13, iPhone SE\n\u00ae\n, iPhone 12 and iPhone 11.\nMac\nMac\n\u00ae\nis the Company\u2019s line of personal computers based on its macOS\n\u00ae\noperating system. The Mac line includes laptops MacBook Air\n\u00ae\nand MacBook Pro\n\u00ae\n, as well as desktops iMac\n\u00ae\n, Mac mini\n\u00ae\n, Mac Studio\u2122 and Mac Pro\n\u00ae\n.\niPad\niPad\n\u00ae\nis the Company\u2019s line of multipurpose tablets based on its iPadOS\n\u00ae\noperating system. The iPad line includes iPad Pro\n\u00ae\n, iPad Air\n\u00ae\n, iPad and iPad mini\n\u00ae\n.\nWearables, Home and Accessories\nWearables, Home and Accessories includes:\n\u2022\nAirPods\n\u00ae",
+    "metadata": {
+      "chunk_index": 10,
+      "char_start": 8000,
+      "char_end": 9000,
+      "chunk_size": 1000,
+      "overlap": 200
+    }
+  },
+  {
+    "chunk_id": "AAPL_2022_fixed_11",
+    "ticker": "AAPL",
+    "company": "Apple",
+    "year": 2022,
+    "strategy": "fixed",
+    "text": "ts based on its iPadOS\n\u00ae\noperating system. The iPad line includes iPad Pro\n\u00ae\n, iPad Air\n\u00ae\n, iPad and iPad mini\n\u00ae\n.\nWearables, Home and Accessories\nWearables, Home and Accessories includes:\n\u2022\nAirPods\n\u00ae\n, the Company\u2019s wireless headphones, including AirPods, AirPods Pro\n\u00ae\nand AirPods Max\u2122;\n\u2022\nApple TV\n\u00ae\n, the Company\u2019s media streaming and gaming device based on its tvOS\n\u00ae\noperating system, including Apple TV 4K and Apple TV HD;\n\u2022\nApple Watch\n\u00ae\n, the Company\u2019s line of smartwatches based on its watchOS\n\u00ae\noperating system, including Apple Watch Ultra\u2122, Apple Watch Series 8 and Apple Watch SE\n\u00ae\n; and\n\u2022\nBeats\n\u00ae\nproducts, HomePod mini\n\u00ae\nand accessories.\nApple Inc. | 2022 Form 10-K | 1\nServices\nAdvertising\nThe Company\u2019s advertising services include various third-party licensing arrangements and the Company\u2019s own advertising platforms.\nAppleCare\nThe Company offers a portfolio of fee-based service and support products under the AppleCare\n\u00ae\nbrand. The offerings provide priority access to Apple tech",
+    "metadata": {
+      "chunk_index": 11,
+      "char_start": 8800,
+      "char_end": 9800,
+      "chunk_size": 1000,
+      "overlap": 200
+    }
+  },
+  {
+    "chunk_id": "AAPL_2022_fixed_12",
+    "ticker": "AAPL",
+    "company": "Apple",
+    "year": 2022,
+    "strategy": "fixed",
+    "text": "Company\u2019s own advertising platforms.\nAppleCare\nThe Company offers a portfolio of fee-based service and support products under the AppleCare\n\u00ae\nbrand. The offerings provide priority access to Apple technical support, access to the global Apple authorized service network for repair and replacement services, and in many cases additional coverage for instances of accidental damage and/or theft and loss, depending on the country and type of product.\nCloud Services\nThe Company\u2019s cloud services store and keep customers\u2019 content up-to-date and available across multiple Apple devices and Windows personal computers.\nDigital Content\nThe Company operates various platforms, including the App Store\n\u00ae\n,\nthat allow customers to discover and download applications and digital content, such as books, music, video, games and podcasts.\nThe Company also offers digital content through subscription-based services, including Apple Arcade\n\u00ae\n, a game subscription service; Apple Fitness+\nSM\n, a personalized fitnes",
+    "metadata": {
+      "chunk_index": 12,
+      "char_start": 9600,
+      "char_end": 10600,
+      "chunk_size": 1000,
+      "overlap": 200
+    }
+  },
+  {
+    "chunk_id": "AAPL_2022_fixed_13",
+    "ticker": "AAPL",
+    "company": "Apple",
+    "year": 2022,
+    "strategy": "fixed",
+    "text": "ideo, games and podcasts.\nThe Company also offers digital content through subscription-based services, including Apple Arcade\n\u00ae\n, a game subscription service; Apple Fitness+\nSM\n, a personalized fitness service; Apple Music\n\u00ae\n, which offers users a curated listening experience with on-demand radio stations; Apple News+\n\u00ae\n, a subscription news and magazine service; and Apple TV+\n\u00ae\n, which offers exclusive original content and live sports.\nPayment Services\nThe Company offers payment services, including Apple Card\n\u00ae\n, a co-branded credit card, and Apple Pay\n\u00ae\n, a cashless payment service.\nMarkets and Distribution\nThe Company\u2019s customers are primarily in the consumer, small and mid-sized business, education, enterprise and government markets. The Company sells its products and resells third-party products in most of its major markets directly to consumers, small and mid-sized businesses, and education, enterprise and government customers through its retail and online stores and its direct s",
+    "metadata": {
+      "chunk_index": 13,
+      "char_start": 10400,
+      "char_end": 11400,
+      "chunk_size": 1000,
+      "overlap": 200
+    }
+  },
+  {
+    "chunk_id": "AAPL_2022_fixed_14",
+    "ticker": "AAPL",
+    "company": "Apple",
+    "year": 2022,
+    "strategy": "fixed",
+    "text": "ty products in most of its major markets directly to consumers, small and mid-sized businesses, and education, enterprise and government customers through its retail and online stores and its direct sales force. The Company also employs a variety of indirect distribution channels, such as third-party cellular network carriers, wholesalers, retailers and resellers. During 2022, the Company\u2019s net sales through its direct and indirect distribution channels accounted for 38% and 62%, respectively, of total net sales.\nCompetition\nThe markets for the Company\u2019s products and services are highly competitive, and are characterized by aggressive price competition and resulting downward pressure on gross margins, frequent introduction of new products and services, short product life cycles, evolving industry standards, continual improvement in product price and performance characteristics, rapid adoption of technological advancements by competitors, and price sensitivity on the part of consumers a",
+    "metadata": {
+      "chunk_index": 14,
+      "char_start": 11200,
+      "char_end": 12200,
+      "chunk_size": 1000,
+      "overlap": 200
+    }
+  },
+  {
+    "chunk_id": "AAPL_2022_fixed_15",
+    "ticker": "AAPL",
+    "company": "Apple",
+    "year": 2022,
+    "strategy": "fixed",
+    "text": "ndustry standards, continual improvement in product price and performance characteristics, rapid adoption of technological advancements by competitors, and price sensitivity on the part of consumers and businesses. Many of the Company\u2019s competitors seek to compete primarily through aggressive pricing and very low cost structures, and by imitating the Company\u2019s products and infringing on its intellectual property.\nThe Company\u2019s ability to compete successfully depends heavily on ensuring the continuing and timely introduction of innovative new products, services and technologies to the marketplace. The Company designs and develops nearly the entire solution for its products, including the hardware, operating system, numerous software applications and related services. Principal competitive factors important to the Company include price, product and service features (including security features), relative price and performance, product and service quality and reliability, design innovatio",
+    "metadata": {
+      "chunk_index": 15,
+      "char_start": 12000,
+      "char_end": 13000,
+      "chunk_size": 1000,
+      "overlap": 200
+    }
+  },
+  {
+    "chunk_id": "AAPL_2022_fixed_16",
+    "ticker": "AAPL",
+    "company": "Apple",
+    "year": 2022,
+    "strategy": "fixed",
+    "text": "actors important to the Company include price, product and service features (including security features), relative price and performance, product and service quality and reliability, design innovation, a strong third-party software and accessories ecosystem, marketing and distribution capability, service and support, and corporate reputation.\nApple Inc. | 2022 Form 10-K | 2\nThe Company is focused on expanding its market opportunities related to smartphones, personal computers, tablets, wearables and accessories, and services. The Company faces substantial competition in these markets from companies that have significant technical, marketing, distribution and other resources, as well as established hardware, software, and service offerings with large customer bases. In addition, some of the Company\u2019s competitors have broader product lines, lower-priced products and a larger installed base of active devices. Competition has been particularly intense as competitors have aggressively cut",
+    "metadata": {
+      "chunk_index": 16,
+      "char_start": 12800,
+      "char_end": 13800,
+      "chunk_size": 1000,
+      "overlap": 200
+    }
+  },
+  {
+    "chunk_id": "AAPL_2022_fixed_17",
+    "ticker": "AAPL",
+    "company": "Apple",
+    "year": 2022,
+    "strategy": "fixed",
+    "text": "e Company\u2019s competitors have broader product lines, lower-priced products and a larger installed base of active devices. Competition has been particularly intense as competitors have aggressively cut prices and lowered product margins. Certain competitors have the resources, experience or cost structures to provide products at little or no profit or even at a loss. The Company\u2019s services compete with business models that provide content to users for free and use illegitimate means to obtain third-party digital content and applications. The Company faces significant competition as competitors imitate the Company\u2019s product features and applications within their products, or collaborate to offer integrated solutions that are more competitive than those they currently offer.\nSupply of Components\nAlthough most components essential to the Company\u2019s business are generally available from multiple sources, certain components are currently obtained from single or limited sources. The Company als",
+    "metadata": {
+      "chunk_index": 17,
+      "char_start": 13600,
+      "char_end": 14600,
+      "chunk_size": 1000,
+      "overlap": 200
+    }
+  },
+  {
+    "chunk_id": "AAPL_2022_fixed_18",
+    "ticker": "AAPL",
+    "company": "Apple",
+    "year": 2022,
+    "strategy": "fixed",
+    "text": "ts\nAlthough most components essential to the Company\u2019s business are generally available from multiple sources, certain components are currently obtained from single or limited sources. The Company also competes for various components with other participants in the markets for smartphones, personal computers, tablets, wearables and accessories. Therefore, many components used by the Company, including those that are available from multiple sources, are at times subject to industry-wide shortage and significant commodity pricing fluctuations.\nThe Company uses some custom components that are not commonly used by its competitors, and new products introduced by the Company often utilize custom components available from only one source. When a component or product uses new technologies, initial capacity constraints may exist until the suppliers\u2019 yields have matured or their manufacturing capacities have increased. The continued availability of these components at acceptable prices, or at all",
+    "metadata": {
+      "chunk_index": 18,
+      "char_start": 14400,
+      "char_end": 15400,
+      "chunk_size": 1000,
+      "overlap": 200
+    }
+  },
+  {
+    "chunk_id": "AAPL_2022_fixed_19",
+    "ticker": "AAPL",
+    "company": "Apple",
+    "year": 2022,
+    "strategy": "fixed",
+    "text": "capacity constraints may exist until the suppliers\u2019 yields have matured or their manufacturing capacities have increased. The continued availability of these components at acceptable prices, or at all, may be affected if suppliers decide to concentrate on the production of common components instead of components customized to meet the Company\u2019s requirements.\nThe Company has entered into agreements for the supply of many components; however, there can be no guarantee that the Company will be able to extend or renew these agreements on similar terms, or at all.\nSubstantially all of the Company\u2019s hardware products are manufactured by outsourcing partners that are located primarily in Asia, with some Mac computers manufactured in the U.S. and Ireland.\nResearch and Development\nBecause the industries in which the Company competes are characterized by rapid technological advances, the Company\u2019s ability to compete successfully depends heavily upon its ability to ensure a continual and timely f",
+    "metadata": {
+      "chunk_index": 19,
+      "char_start": 15200,
+      "char_end": 16200,
+      "chunk_size": 1000,
+      "overlap": 200
+    }
+  }
+]

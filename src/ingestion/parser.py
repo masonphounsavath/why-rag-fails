@@ -88,6 +88,9 @@ def parse_html(
 
 def _clean_text(text: str) -> str:
     """Normalizes whitespace and strips boilerplate from extracted text."""
+    # Replace non-breaking spaces with regular spaces before any other processing.
+    text = text.replace("\xa0", " ")
+
     lines = text.splitlines()
 
     cleaned_lines = []
