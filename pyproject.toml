@@ -1,0 +1,32 @@
+[project]
+name = "why-rag-fails"
+version = "0.1.0"
+description = "A RAG system over SEC filings with rigorous failure mode analysis"
+requires-python = ">=3.11"
+
+dependencies = [
+    "anthropic>=0.30.0",
+    "sentence-transformers>=3.0.0",
+    "faiss-cpu>=1.8.0",
+    "pdfplumber>=0.11.0",
+    "requests>=2.32.0",
+    "python-dotenv>=1.0.0",
+    "numpy>=1.26.0",
+    "pandas>=2.2.0",
+    "tqdm>=4.66.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "jupyter>=1.0.0",
+    "ipykernel>=6.29.0",
+    "pytest>=8.0.0",
+]
+
+[build-system]
+requires = ["setuptools>=69.0"]
+build-backend = "setuptools.backends.legacy:build"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["src*"]
